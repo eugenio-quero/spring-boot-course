@@ -1,4 +1,4 @@
-package com.eugenio.courses.springbootcourse.service;
+package com.eugenio.courses.springbootcourse.service.user;
 
 import java.util.List;
 import java.util.Optional;
